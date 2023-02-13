@@ -1,1 +1,1 @@
-Sript for hello world programme
+my hello world script
