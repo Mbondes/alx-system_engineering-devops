@@ -1,1 +1,1 @@
-the script prints hello world
+Sript for hello world programme
