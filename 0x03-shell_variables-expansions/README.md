@@ -1,1 +1,1 @@
-shell init files variables and expansions
+programming with variables is good
